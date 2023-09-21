@@ -1,5 +1,6 @@
 # Cyber Law & Professional Ethics [CACS401]
 [![wakatime](https://wakatime.com/badge/user/d843d77e-df9e-4be5-a842-ed311ba05a54/project/648c595f-aa17-43e5-a7d8-11bdcc3eb365.svg)](https://wakatime.com/badge/user/d843d77e-df9e-4be5-a842-ed311ba05a54/project/648c595f-aa17-43e5-a7d8-11bdcc3eb365)
+[![Codeac](https://static.codeac.io/badges/2-694173063.svg "Codeac")](https://app.codeac.io/github/kabirdeula/CyberLawAndProfessionalEthics)
 
 Course Title: **Cyber Law & Professional Ethics**
 
